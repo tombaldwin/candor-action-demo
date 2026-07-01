@@ -1,0 +1,2 @@
+# the domain core must do no filesystem I/O
+deny Fs com.demo.domain
